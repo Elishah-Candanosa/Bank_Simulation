@@ -3,6 +3,9 @@
 * **Autor:** Elishah Candanosa
 
 Este repositorio contiene el proyecto "Simulador de un Banco", desarrollado en Python utilizando Jupyter Notebooks. A través de este simulador, es posible modelar y analizar el comportamiento de la atención al cliente en un entorno bancario, permitiendo realizar experimentaciones sobre el flujo de personas y el tiempo de atención.
+<div align=center>
+<img width="612" height="306" alt="image" src="https://github.com/user-attachments/assets/50e773af-bbc1-48f1-b60a-d62e1e6049f5" />
+</div>
 
 ## Descripción del proyecto
 
